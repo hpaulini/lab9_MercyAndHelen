@@ -1,2 +1,1 @@
-# lab9_MercyAndHelen
-This is our repo creation for lab 9.
+Lab 9, Team members: Mercy and Helen
